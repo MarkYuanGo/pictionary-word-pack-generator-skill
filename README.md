@@ -1,4 +1,4 @@
-# pictionary-word-pack-generator
+# pictionary-word-pack-generator-skill
 
 > An AI agent skill for generating themed, difficulty-graded Pictionary word packs — powered by [PictionaryHub](https://pictionaryhub.com).
 
@@ -11,7 +11,7 @@ Word packs follow the **long-tail principle** — instead of generic words like 
 ## Install
 
 ```bash
-npx skills add MarkYuanGo/pictionary-word-pack-generator
+npx skills add MarkYuanGo/pictionary-word-pack-generator-skill
 ```
 
 Or install from a local clone:
